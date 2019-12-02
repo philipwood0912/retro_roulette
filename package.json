@@ -1,0 +1,23 @@
+{
+  "name": "retro_roulette",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philipwood0912/retro_roulette.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/philipwood0912/retro_roulette/issues"
+  },
+  "homepage": "https://github.com/philipwood0912/retro_roulette#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.1"
+  }
+}

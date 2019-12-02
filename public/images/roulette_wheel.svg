@@ -1,0 +1,232 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1694.06 1694.06">
+  <title>roulette_wheel</title>
+  <g id="bgwheel">
+    <circle cx="848.76" cy="847.07" r="832.03" style="stroke: #231f20;stroke-miterlimit: 10;stroke-width: 9px"/>
+  </g>
+  <g id="numbg">
+    <path id="_0bg" data-name="0bg" d="M913.65,1673l-13.48-165.11s-56.68,5.65-104.85-1.79c-4.46,50.38-12.39,166.8-12.39,166.8S847.88,1682.8,913.65,1673Z" transform="translate(-3.16 -0.97)" style="fill: #7200C1"/>
+    <path id="_28bg" data-name="28bg" d="M775.43,1675.46l16-168s-57.06-4.27-103.37-20.17c-13.37,49.74-41.9,165.1-41.9,165.1S708.64,1673.78,775.43,1675.46Z" transform="translate(-3.16 -0.97)" style="fill: #47c7f0"/>
+    <path id="_2bg" data-name="2bg" d="M922,1675.58l-15.73-168s57.07-4.17,103.4-20c13.29,49.77,41.63,165.18,41.63,165.18S988.82,1674,922,1675.58Z" transform="translate(-3.16 -0.97)" style="fill: #47c7f0"/>
+    <path id="_26bg" data-name="26bg" d="M513.79,1604.26l66.37-155.11s-53.06-21.43-92.33-50.68C460,1441.79,397.67,1543,397.67,1543S450.68,1582.34,513.79,1604.26Z" transform="translate(-3.16 -0.97)" style="fill: #47c7f0"/>
+    <path id="_35bg" data-name="35bg" d="M1184.86,1608.81l-66.12-155.22s53.1-21.34,92.42-50.52c27.8,43.36,89.92,144.66,89.92,144.66S1248,1587,1184.86,1608.81Z" transform="translate(-3.16 -0.97)" style="fill: #47c7f0"/>
+    <path id="_4bg" data-name="4bg" d="M1417,1460l-115.83-122.67s42.4-38.43,69.16-79.43c41.12,31,134.51,104.51,134.51,104.51S1468.69,1417.61,1417,1460Z" transform="translate(-3.16 -0.97)" style="fill: #47c7f0"/>
+    <path id="_11bg" data-name="11bg" d="M284.85,1453.05l116-122.48s-42.34-38.49-69-79.54c-41.16,31-134.68,104.29-134.68,104.29S233.26,1410.6,284.85,1453.05Z" transform="translate(-3.16 -0.97)" style="fill: #47c7f0"/>
+    <path id="_33bg" data-name="33bg" d="M1586,1241.7,1437.31,1162s28.07-49.87,40.48-97.24c48.82,16.43,160.66,56.6,160.66,56.6S1621.61,1185.17,1586,1241.7Z" transform="translate(-3.16 -0.97)" style="fill: #47c7f0"/>
+    <path id="_20bg" data-name="20bg" d="M120.6,1237.5,269.42,1158s-28-49.92-40.32-97.3c-48.85,16.35-160.76,56.33-160.76,56.33S85.08,1180.91,120.6,1237.5Z" transform="translate(-3.16 -0.97)" style="fill: #47c7f0"/>
+    <path id="_6bg" data-name="6bg" d="M1671.19,982.33,1505,953.21s11-56.15,8-105c51.51.3,170.3,3.4,170.3,3.4S1687.3,917.49,1671.19,982.33Z" transform="translate(-3.16 -0.97)" style="fill: #47c7f0"/>
+    <path id="_17bg" data-name="17bg" d="M34.44,980l166.23-28.85s-10.94-56.17-7.81-105c-51.51.22-170.31,3.12-170.31,3.12S18.44,915.12,34.44,980Z" transform="translate(-3.16 -0.97)" style="fill: #47c7f0"/>
+    <path id="_9bg" data-name="9bg" d="M642,1650.73l41.84-163.45s-55.71-13-99-35.94c-20.92,47.07-67,156.62-67,156.62S576.24,1638.72,642,1650.73Z" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_14bg" data-name="14bg" d="M1054.5,1653.06l-41.58-163.51s55.74-13,99.06-35.78c20.84,47.11,66.72,156.73,66.72,156.73S1120.24,1641.17,1054.5,1653.06Z" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_23bg" data-name="23bg" d="M1306.36,1542.61l-90.85-142.17s48.85-29.82,82.8-65.09c34.59,38.17,112.59,127.83,112.59,127.83S1365,1510.66,1306.36,1542.61Z" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_30bg" data-name="30bg" d="M393.88,1536.86l91.07-142s-48.79-29.89-82.69-65.22c-34.65,38.11-112.79,127.64-112.79,127.64S335.25,1504.82,393.88,1536.86Z" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_16bg" data-name="16bg" d="M1506.84,1358l-132.47-104.47s36.35-44.2,56.85-88.67c45.19,24.71,148.3,83.79,148.3,83.79S1551.78,1308.58,1506.84,1358Z" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_7bg" data-name="7bg" d="M194.87,1352l132.65-104.26s-36.28-44.26-56.7-88.76c-45.24,24.63-148.44,83.55-148.44,83.55S150,1302.43,194.87,1352Z" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_21bg" data-name="21bg" d="M1643.35,1116l-160.79-51.1s18.45-54.17,22-103c51,7.19,168.31,26.16,168.31,26.16S1668,1053.86,1643.35,1116Z" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_32bg" data-name="32bg" d="M64.91,1112.67l160.87-50.84s-18.36-54.2-21.79-103c-51,7.11-168.36,25.89-168.36,25.89S40.37,1050.52,64.91,1112.67Z" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_00bg" data-name="00bg" d="M915,23.09,901.25,188.18s-56.67-5.75-104.85,1.61C792,139.41,784.28,23,784.28,23S849.25,13.16,915,23.09Z" transform="translate(-3.16 -0.97)" style="fill: #7200C1"/>
+    <path id="_1bg" data-name="1bg" d="M776.79,22.38l15.73,168s-57.07,4.17-103.41,20C675.82,160.6,647.49,45.19,647.49,45.19S710,24,776.79,22.38Z" transform="translate(-3.16 -0.97)" style="fill: #ed2590"/>
+    <path id="_27bg" data-name="27bg" d="M923.38,17.5l-16,168s57.07,4.26,103.38,20.16c13.37-49.74,41.89-165.1,41.89-165.1S990.17,19.18,923.38,17.5Z" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_36bg" data-name="36bg" d="M517,91.16l66.12,155.22s-53.1,21.34-92.42,50.52c-27.8-43.36-89.92-144.67-89.92-144.67S453.89,113,517,91.16Z" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_25bg" data-name="25bg" d="M1185.11,85.7l-66.37,155.12s53.06,21.42,92.33,50.67c27.87-43.31,90.16-144.52,90.16-144.52S1248.22,107.63,1185.11,85.7Z" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_12bg" data-name="12bg" d="M1418,235.92,1302,358.39s42.34,38.5,69,79.55c41.17-31,134.68-104.29,134.68-104.29S1469.62,278.36,1418,235.92Z" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_3bg" data-name="3bg" d="M285.84,241,401.68,363.66s-42.4,38.42-69.17,79.43C291.4,412.06,198,338.58,198,338.58S234.18,283.35,285.84,241Z" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_19bg" data-name="19bg" d="M1585.64,453.47,1436.82,533s28,49.91,40.33,97.3c48.84-16.35,160.75-56.33,160.75-56.33S1621.16,510.06,1585.64,453.47Z" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_34bg" data-name="34bg" d="M121.24,455.27,269.93,535s-28.07,49.87-40.48,97.24c-48.82-16.43-160.66-56.6-160.66-56.6S85.63,511.8,121.24,455.27Z" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_18bg" data-name="18bg" d="M1671.41,711l-166.23,28.85s10.94,56.17,7.81,105c51.51-.22,170.31-3.12,170.31-3.12S1687.41,775.85,1671.41,711Z" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_5bg" data-name="5bg" d="M32.66,710.64l166.18,29.12s-11,56.15-8,105c-51.51-.31-170.3-3.41-170.3-3.41S16.56,775.48,32.66,710.64Z" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_13bg" data-name="13bg" d="M643.28,45.9l41.57,163.51s-55.74,13-99.06,35.78C565,198.08,519.07,88.46,519.07,88.46S577.53,57.79,643.28,45.9Z" transform="translate(-3.16 -0.97)" style="fill: #49c7f0"/>
+    <path id="_10bg" data-name="10bg" d="M1055.82,40.24,1014,203.68s55.71,13,99,35.94C1133.89,192.55,1180,83,1180,83S1121.54,52.24,1055.82,40.24Z" transform="translate(-3.16 -0.97)" style="fill: #49c7f0"/>
+    <path id="_29bg" data-name="29bg" d="M1309.5,150.09l-95.08,139.37s47.93,31.27,80.81,67.55c35.72-37.11,116.38-124.39,116.38-124.39S1367.19,183.78,1309.5,150.09Z" transform="translate(-3.16 -0.97)" style="fill: #49c7f0"/>
+    <path id="_24bg" data-name="24bg" d="M398,156.36l90.84,142.17s-48.84,29.81-82.8,65.09c-34.58-38.17-112.58-127.83-112.58-127.83S339.33,188.31,398,156.36Z" transform="translate(-3.16 -0.97)" style="fill: #49c7f0"/>
+    <path id="_8bg" data-name="8bg" d="M1509.68,338,1377,442.28s36.28,44.25,56.7,88.75c45.24-24.63,148.45-83.54,148.45-83.54S1554.54,387.54,1509.68,338Z" transform="translate(-3.16 -0.97)" style="fill: #49c7f0"/>
+    <path id="_15bg" data-name="15bg" d="M195.7,340,328.18,444.42s-36.35,44.19-56.85,88.66c-45.2-24.7-148.3-83.79-148.3-83.79S150.76,389.39,195.7,340Z" transform="translate(-3.16 -0.97)" style="fill: #49c7f0"/>
+    <path id="_31bg" data-name="31bg" d="M1643.79,580.3l-160.87,50.84s18.35,54.2,21.79,103c51-7.11,168.36-25.89,168.36-25.89S1668.33,642.45,1643.79,580.3Z" transform="translate(-3.16 -0.97)" style="fill: #49c7f0"/>
+    <path id="_22bg" data-name="22bg" d="M64.34,582l160.79,51.1s-18.44,54.17-22,103C152.17,728.92,34.85,710,34.85,710S39.71,644.11,64.34,582Z" transform="translate(-3.16 -0.97)" style="fill: #49c7f0"/>
+  </g>
+  <g id="spinbg">
+    <path id="_0" data-name="0" data-fill="7200C1" class="bgs" d="M900.64,1502.11,887.5,1344.83s-39.33,3.54-76.09-.07c-5.66,58-15.49,158.73-15.49,158.73S832.55,1507.68,900.64,1502.11Z" transform="translate(-3.16 -0.97)" style="fill: #7200C1"/>
+    <path id="_2-blue" data-name="2-blue" data-fill="49c7f0" class="bgs" d="M1010.39,1484.59,970.08,1332s-38.11,10.33-74.94,13.18c4.51,58.07,12.36,159,12.36,159S944.3,1501.92,1010.39,1484.59Z" transform="translate(-3.16 -0.97)" style="fill: #49c7f0"/>
+    <path id="_35-blue" data-name="35-blue" data-fill="49c7f0" class="bgs" d="M1206.51,1400.7l-85.86-132.44s-33,21.69-67.1,35.87l61.29,147.23S1149.11,1437.76,1206.51,1400.7Z" transform="translate(-3.16 -0.97)" style="fill: #49c7f0"/>
+    <path id="_4-blue" data-name="4-blue" data-fill="49c7f0" class="bgs" d="M1368.33,1256.81l-122.92-99s-24.57,30.91-52.54,55c38.05,44.1,104.2,120.73,104.2,120.73S1325.38,1309.94,1368.33,1256.81Z" transform="translate(-3.16 -0.97)" style="fill: #49c7f0"/>
+    <path id="_33-blue" data-name="33-blue" data-fill="49c7f0" class="bgs" d="M1476.38,1066.17l-149.19-51.52s-12.64,37.4-30.79,69.57l138.93,78.3S1454,1130.71,1476.38,1066.17Z" transform="translate(-3.16 -0.97)" style="fill: #49c7f0"/>
+    <path id="_6-blue" data-name="6-blue" data-fill="49c7f0" class="bgs" d="M1513.34,848.57,1355.52,851s.88,39.47-5.21,75.91c57.45,9.58,157.31,26.2,157.31,26.2S1514.28,916.88,1513.34,848.57Z" transform="translate(-3.16 -0.97)" style="fill: #49c7f0"/>
+    <path id="_14-pink" data-name="14-pink" data-fill="ed2690" class="bgs" d="M1110.4,1454.56l-62.14-145.09s-36.19,15.78-72.21,24c12.93,56.8,35.43,155.49,35.43,155.49S1047.55,1481.35,1110.4,1454.56Z" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_23-pink" data-name="23-pink" data-fill="ed2690" class="bgs" d="M1293.28,1335.55,1186.9,1219s-29,26.79-60.32,46.37c30.88,49.38,84.57,135.2,84.57,135.2S1242.73,1381.51,1293.28,1335.55Z" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_16-pink" data-name="16-pink" data-fill="ed2690" class="bgs" d="M1431.65,1163.48l-139.46-73.92s-18.26,35-41.16,64l125.2,98.78S1399.55,1223.79,1431.65,1163.48Z" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_21-pink" data-name="21-pink" data-fill="ed2690" class="bgs" d="M1502.78,956l-156.29-22.07s-5.27,39.13-16.94,74.18l151.34,50.3S1493.1,1023.58,1502.78,956Z" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_28-blue" data-name="28-blue" data-fill="49c7f0" class="bgs" d="M687.56,1484.33l40.56-152.54s38.09,10.39,74.92,13.3c-4.61,58.07-12.63,159-12.63,159S753.62,1501.77,687.56,1484.33Z" transform="translate(-3.16 -0.97)" style="fill: #49c7f0"/>
+    <path id="_26-blue" data-name="26-blue" data-fill="49c7f0" class="bgs" d="M492.58,1399.12l86.07-132.31s33,21.75,67,36l-61.53,147.13S549.92,1436.27,492.58,1399.12Z" transform="translate(-3.16 -0.97)" style="fill: #49c7f0"/>
+    <path id="_11-blue" data-name="11-blue" data-fill="49c7f0" class="bgs" d="M334,1251l123.09-98.81s24.51,30.95,52.45,55.12c-38.13,44-104.4,120.55-104.4,120.55S376.86,1304.16,334,1251Z" transform="translate(-3.16 -0.97)" style="fill: #49c7f0"/>
+    <path id="_20-blue" data-name="20-blue" data-fill="49c7f0" class="bgs" d="M231.26,1059.15l149.27-51.28s12.59,37.42,30.68,69.62c-50.78,28.53-139.06,78.08-139.06,78.08S253.57,1123.73,231.26,1059.15Z" transform="translate(-3.16 -0.97)" style="fill: #49c7f0"/>
+    <path id="_17-blue" data-name="17-blue" data-fill="49c7f0" class="bgs" d="M196.65,847.49l157.81,2.72s-.93,39.47,5.09,75.92L202.2,952.07S195.59,915.8,196.65,847.49Z" transform="translate(-3.16 -0.97)" style="fill: #49c7f0"/>
+    <path id="_9-pink" data-name="9-pink" data-fill="ed2690" class="bgs" d="M587.6,1450.13l62.38-145s36.16,15.84,72.17,24.08c-13,56.78-35.68,155.44-35.68,155.44S650.4,1477,587.6,1450.13Z" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_30-pink" data-name="30-pink" data-fill="ed2690" class="bgs" d="M405.92,1330.83,512.49,1214.4s29,26.85,60.24,46.47c-31,49.34-84.79,135.07-84.79,135.07S456.4,1376.87,405.92,1330.83Z" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_7-pink" data-name="7-pink" data-fill="ed2690" class="bgs" d="M273.83,1158.53l139.58-73.69s18.2,35,41,64.06c-45.78,36-125.36,98.58-125.36,98.58S305.83,1218.89,273.83,1158.53Z" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_32-pink" data-name="32-pink" data-fill="ed2690" class="bgs" d="M206,951.88l156.32-21.8s5.21,39.13,16.82,74.2l-151.42,50.06S215.6,1019.53,206,951.88Z" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_00" data-name="00" data-fill="7200C1" class="bgs" d="M901.72,188,888.31,345.27s-39.31-3.6-76.08-.06c-5.57-58-15.23-158.75-15.23-158.75S833.63,182.33,901.72,188Z" transform="translate(-3.16 -0.97)" style="fill: #7200C1"/>
+    <path id="_27-pink" data-name="27-pink" data-fill="ed2690" class="bgs" d="M1011.44,206.71,970.87,359.25S932.78,348.85,896,346c4.6-58.07,12.62-159,12.62-159S945.38,189.27,1011.44,206.71Z" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_25-pink" data-name="25-pink" data-fill="ed2690" class="bgs" d="M1208.42,289.92l-86.07,132.3s-33-21.74-67-36c22.46-53.75,61.53-147.13,61.53-147.13S1151.08,252.77,1208.42,289.92Z" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_12-pink" data-name="12-pink" data-fill="ed2690" class="bgs" d="M1371.23,436.48l-124.57,96.93s-24.05-31.32-51.61-55.91l106.22-119S1329.17,382.63,1371.23,436.48Z" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_19-pink" data-name="19-pink" data-fill="ed2690" class="bgs" d="M1476.74,626.89l-149.27,51.28s-12.59-37.42-30.69-69.62l139.06-78.07S1454.43,562.32,1476.74,626.89Z" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_18-pink" data-name="18-pink" data-fill="ed2690" class="bgs" d="M1513.34,844.56l-157.81-2.73s.94-39.47-5.09-75.91L1507.79,740S1514.4,776.25,1513.34,844.56Z" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_10-blue" data-name="10-blue" data-fill="49c7f0" class="bgs" d="M1111.4,237.9l-62.38,145s-36.17-15.84-72.17-24.09c13-56.77,35.68-155.43,35.68-155.43S1048.59,211,1111.4,237.9Z" transform="translate(-3.16 -0.97)" style="fill: #4cc7f0"/>
+    <path id="_29-blue" data-name="29-blue" data-fill="49c7f0" class="bgs" d="M1295.08,356.21,1188.51,472.63s-29-26.84-60.25-46.47l84.8-135.06S1244.6,310.17,1295.08,356.21Z" transform="translate(-3.16 -0.97)" style="fill: #4cc7f0"/>
+    <path id="_8-blue" data-name="8-blue" data-fill="49c7f0" class="bgs" d="M1432.17,529.51,1292.59,603.2s-18.21-35-41-64.06l125.36-98.58S1400.17,469.15,1432.17,529.51Z" transform="translate(-3.16 -0.97)" style="fill: #4cc7f0"/>
+    <path id="_31-blue" data-name="31-blue" data-fill="49c7f0" class="bgs" d="M1504,737.16,1347.63,759s-5.2-39.14-16.81-74.21c55.3-18.29,151.42-50,151.42-50S1494.39,669.51,1504,737.16Z" transform="translate(-3.16 -0.97)" style="fill: #4cc7f0"/>
+    <path id="_1-pink" data-name="1-pink" data-fill="ed2690" class="bgs" d="M688.6,207.45l40.32,152.6s38.1-10.33,74.93-13.18c-4.5-58.07-12.36-159-12.36-159S754.69,190.12,688.6,207.45Z" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_36-pink" data-name="36-pink" data-fill="ed2690" class="bgs" d="M493.49,292.34l85.85,132.44s33-21.69,67.1-35.87c-22.38-53.78-61.29-147.23-61.29-147.23S550.88,255.28,493.49,292.34Z" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_3-pink" data-name="3-pink" data-fill="ed2690" class="bgs" d="M334.66,440.23l122.92,99s24.57-30.91,52.54-55c-38.05-44.1-104.2-120.73-104.2-120.73S377.61,387.1,334.66,440.23Z" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_34-pink" data-name="34-pink" data-fill="ed2690" class="bgs" d="M231.61,631.87,380.79,683.4s12.65-37.4,30.8-69.58l-138.93-78.3S254,567.33,231.61,631.87Z" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_5-pink" data-name="5-pink" data-fill="ed2690" class="bgs" d="M196.65,843.48,354.47,841s-.87-39.47,5.21-75.9c-57.45-9.58-157.31-26.2-157.31-26.2S195.71,775.16,196.65,843.48Z" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_13-blue" data-name="13-blue" data-fill="49c7f0" class="bgs" d="M588.59,241.47l62.14,145.09s36.19-15.78,72.21-24C710,305.8,687.52,207.1,687.52,207.1S651.44,214.69,588.59,241.47Z" transform="translate(-3.16 -0.97)" style="fill: #4cc7f0"/>
+    <path id="_24-blue" data-name="24-blue" data-fill="49c7f0" class="bgs" d="M406.71,360.48l106.38,116.6s29-26.8,60.32-46.37c-30.88-49.39-84.57-135.21-84.57-135.21S457.27,314.53,406.71,360.48Z" transform="translate(-3.16 -0.97)" style="fill: #4cc7f0"/>
+    <path id="_15-blue" data-name="15-blue" data-fill="49c7f0" class="bgs" d="M274.34,532.56,413.8,606.48s18.26-35,41.16-64c-45.72-36.09-125.2-98.79-125.2-98.79S306.44,472.25,274.34,532.56Z" transform="translate(-3.16 -0.97)" style="fill: #4cc7f0"/>
+    <path id="_22-blue" data-name="22-blue" data-fill="49c7f0" class="bgs" d="M206.22,739.1,362.5,761.16S367.77,722,379.44,687c-55.27-18.38-151.34-50.3-151.34-50.3S215.89,671.47,206.22,739.1Z" transform="translate(-3.16 -0.97)" style="fill: #4cc7f0"/>
+  </g>
+  <g id="upperbg">
+    <path id="_0-out" data-name="0-out" d="M890.48,1340.07l-13.36-160.7s-27.85,2.75-54.42,0c-3.62,44-15.83,160.67-15.83,160.67s33.9,4.79,83.61.07" transform="translate(-3.16 -0.97)" style="fill: #7200C1"/>
+    <path id="_2-out-blue" data-name="2-out-blue" d="M969.51,1329.54l-40-157.1a239.73,239.73,0,0,1-50.23,7.8c2.76,44.1,13.32,162,13.32,162s28.41-.82,76.91-12.65" transform="translate(-3.16 -0.97)" style="fill: #4cc7f0"/>
+    <path id="_35-out-blue" data-name="35-out-blue" d="M1119.75,1266.38,1032,1130.05a240.24,240.24,0,0,1-45.17,23.31c16.6,41,63.95,149.39,63.95,149.39s26.68-9.78,68.94-36.37" transform="translate(-3.16 -0.97)" style="fill: #4cc7f0"/>
+    <path id="_4-out-blue" data-name="4-out-blue" d="M1240.55,1156.15l-126.48-101.42a239.49,239.49,0,0,1-35.42,36.45c28.74,33.57,108.08,121.34,108.08,121.34s22.19-17.74,53.82-56.37" transform="translate(-3.16 -0.97)" style="fill: #4cc7f0"/>
+    <path id="_33-out-blue" data-name="33-out-blue" d="M1322.5,1010.38l-153.81-51.21a240,240,0,0,1-20.57,46.47c38.6,21.51,143.47,76.29,143.47,76.29s14.66-24.34,30.91-71.55" transform="translate(-3.16 -0.97)" style="fill: #4cc7f0"/>
+    <path id="_6-out-blue" data-name="6-out-blue" d="M1349.43,847.46l-162.1,2a240.05,240.05,0,0,1-4.22,50.65c43.51,7.69,160.54,25.12,160.54,25.12s5.88-27.8,5.78-77.73" transform="translate(-3.16 -0.97)" style="fill: #4cc7f0"/>
+    <path id="_14-out-pink" data-name="14-out-pink" d="M1047.17,1302.41l-66.37-147.9a240.21,240.21,0,0,1-48.14,16.3c10.29,43,40.91,157.26,40.91,157.26s27.84-5.68,73.6-25.66" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_23-out-pink" data-name="23-out-pink" d="M1185.72,1214.91l-110.44-118.68a239.78,239.78,0,0,1-40.33,30.92c23.57,37.38,89.34,135.73,89.34,135.73s24.53-14.33,61.43-48" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_16-out-pink" data-name="16-out-pink" d="M1288.51,1086l-142.94-76.47a240,240,0,0,1-28.14,42.33c34.42,27.72,128.52,99.44,128.52,99.44s18.56-21.51,42.56-65.3" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_21-out-pink" data-name="21-out-pink" d="M1342.5,930.25l-159.77-27.42a240.25,240.25,0,0,1-13.33,49c41.41,15.44,153.34,53.77,153.34,53.77s10.82-26.27,19.76-75.4" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_28-out-blue" data-name="28-out-blue" d="M729.69,1326.34l40.26-157a240.47,240.47,0,0,0,50.22,7.88c-2.84,44.1-13.59,161.93-13.59,161.93s-28.4-.87-76.89-12.78" transform="translate(-3.16 -0.97)" style="fill: #4cc7f0"/>
+    <path id="_26-out-blue" data-name="26-out-blue" d="M579.56,1262.94l87.94-136.19a239.72,239.72,0,0,0,45.13,23.39c-16.66,40.93-64.19,149.28-64.19,149.28s-26.66-9.82-68.88-36.48" transform="translate(-3.16 -0.97)" style="fill: #4cc7f0"/>
+    <path id="_11-out-blue" data-name="11-out-blue" d="M459.94,1152.51,586.58,1051.3A240.26,240.26,0,0,0,622,1087.81C593.15,1121.32,513.67,1209,513.67,1209s-22.16-17.78-53.73-56.46" transform="translate(-3.16 -0.97)" style="fill: #4cc7f0"/>
+    <path id="_20-out-blue" data-name="20-out-blue" d="M381.23,1006.61l153.89-51a239.88,239.88,0,0,0,20.5,46.51C517,1023.6,412,1078.21,412,1078.21s-14.62-24.36-30.79-71.6" transform="translate(-3.16 -0.97)" style="fill: #4cc7f0"/>
+    <path id="_17-out-blue" data-name="17-out-blue" d="M355.56,845.65l162.1,2.22a240,240,0,0,0,4.14,50.66c-43.53,7.61-160.58,24.85-160.58,24.85s-5.84-27.81-5.66-77.73" transform="translate(-3.16 -0.97)" style="fill: #4cc7f0"/>
+    <path id="_9-out-pink" data-name="9-out-pink" d="M652.08,1299.09l66.61-147.8a239.87,239.87,0,0,0,48.12,16.38c-10.36,43-41.18,157.2-41.18,157.2s-27.83-5.73-73.55-25.78" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_30-out-pink" data-name="30-out-pink" d="M513.68,1211.36l110.63-118.5a239.72,239.72,0,0,0,40.28,31C641,1161.19,575,1259.43,575,1259.43s-24.51-14.37-61.35-48.07" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_7-out-pink" data-name="7-out-pink" d="M414.1,1081.3l143.06-76.25a240.07,240.07,0,0,0,28.07,42.38c-34.46,27.66-128.68,99.23-128.68,99.23S438,1125.12,414.1,1081.3" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_32-out-pink" data-name="32-out-pink" d="M361.35,929.45l159.83-27.16a239.86,239.86,0,0,0,13.24,49.07C493,966.73,381,1004.88,381,1004.88s-10.77-26.29-19.64-75.43" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_00-out" data-name="00-out" d="M891.29,350.2,877.67,510.88s-27.84-2.8-54.43-.05c-3.54-44-15.56-160.7-15.56-160.7s33.91-4.73,83.61.07" transform="translate(-3.16 -0.97)" style="fill: #7200C1"/>
+    <path id="_27-out-pink" data-name="27-out-pink" d="M970.31,360.86l-40.26,157A240.47,240.47,0,0,0,879.83,510c2.84-44.1,13.59-161.92,13.59-161.92s28.4.86,76.89,12.77" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_25-out-pink" data-name="25-out-pink" d="M1120.44,424.26,1032.5,560.45a240.11,240.11,0,0,0-45.13-23.39c16.66-40.92,64.19-149.27,64.19-149.27s26.66,9.81,68.88,36.47" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_12-out-pink" data-name="12-out-pink" d="M1242.06,535.69,1115.42,636.9a240.47,240.47,0,0,0-35.37-36.5c28.8-33.52,108.28-121.17,108.28-121.17s22.16,17.78,53.73,56.46" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_19-out-pink" data-name="19-out-pink" d="M1322.77,680.59l-153.89,51a239.6,239.6,0,0,0-20.5-46.51C1187,663.61,1292,609,1292,609s14.62,24.37,30.79,71.6" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_18-out-pink" data-name="18-out-pink" d="M1349.44,843.56l-162.1-2.23a240,240,0,0,0-4.14-50.66c43.53-7.61,160.58-24.85,160.58-24.85s5.84,27.81,5.66,77.74" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_10-out-blue" data-name="10-out-blue" d="M1047.92,388.11l-66.61,147.8a239.87,239.87,0,0,0-48.12-16.38c10.36-43,41.17-157.19,41.17-157.19s27.84,5.72,73.56,25.77" transform="translate(-3.16 -0.97)" style="fill: #4fc7f0"/>
+    <path id="_29-out-blue" data-name="29-out-blue" d="M1186.32,475.85l-110.63,118.5a240.07,240.07,0,0,0-40.28-31C1059,526,1125,427.77,1125,427.77s24.51,14.37,61.35,48.08" transform="translate(-3.16 -0.97)" style="fill: #4fc7f0"/>
+    <path id="_8-out-blue" data-name="8-out-blue" d="M1288.9,604.91l-143.06,76.24a240.47,240.47,0,0,0-28.07-42.38c34.46-27.66,128.68-99.23,128.68-99.23s18.53,21.55,42.45,65.37" transform="translate(-3.16 -0.97)" style="fill: #4fc7f0"/>
+    <path id="_31-out-blue" data-name="31-out-blue" d="M1342.64,760.75l-159.82,27.16a239.86,239.86,0,0,0-13.24-49.07C1211,723.48,1323,685.33,1323,685.33s10.77,26.29,19.63,75.42" transform="translate(-3.16 -0.97)" style="fill: #4fc7f0"/>
+    <path id="_1-out-pink" data-name="1-out-pink" d="M730.48,363.66l40,157.1a240.65,240.65,0,0,1,50.23-7.8C818,468.86,807.39,351,807.39,351s-28.4.81-76.91,12.64" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_36-out-pink" data-name="36-out-pink" d="M580.24,426.82,668,563.15a240.24,240.24,0,0,1,45.17-23.31c-16.59-41-64-149.38-64-149.38s-26.68,9.77-68.94,36.36" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_3-out-pink" data-name="3-out-pink" d="M460.45,537.05,586.92,638.47A240.38,240.38,0,0,1,622.35,602c-28.74-33.56-108.08-121.34-108.08-121.34s-22.2,17.74-53.82,56.37" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_34-out-pink" data-name="34-out-pink" d="M381.49,682.82,535.3,734a239.92,239.92,0,0,1,20.58-46.48c-38.61-21.5-143.48-76.29-143.48-76.29s-14.66,24.34-30.91,71.55" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_5-out-pink" data-name="5-out-pink" d="M355.56,843.75l162.1-2a239.72,239.72,0,0,1,4.23-50.65C478.37,783.45,361.34,766,361.34,766s-5.88,27.8-5.78,77.73" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_13-out-blue" data-name="13-out-blue" d="M652.82,390.79l66.37,147.9a240.21,240.21,0,0,1,48.14-16.3c-10.28-43-40.91-157.26-40.91-157.26s-27.84,5.68-73.6,25.66" transform="translate(-3.16 -0.97)" style="fill: #4fc7f0"/>
+    <path id="_24-out-blue" data-name="24-out-blue" d="M513.28,479.29,623.71,598a239.36,239.36,0,0,1,40.34-30.93c-23.57-37.38-89.35-135.73-89.35-135.73s-24.53,14.33-61.42,48" transform="translate(-3.16 -0.97)" style="fill: #4fc7f0"/>
+    <path id="_15-out-blue" data-name="15-out-blue" d="M414.48,608.19l142.95,76.48a239.9,239.9,0,0,1,28.13-42.33C551.15,614.62,457,542.9,457,542.9s-18.56,21.51-42.56,65.29" transform="translate(-3.16 -0.97)" style="fill: #4fc7f0"/>
+    <path id="_22-out-blue" data-name="22-out-blue" d="M361.49,760l159.78,27.42a239.49,239.49,0,0,1,13.33-49c-41.41-15.43-153.35-53.76-153.35-53.76S370.44,710.83,361.49,760" transform="translate(-3.16 -0.97)" style="fill: #4fc7f0"/>
+  </g>
+  <g id="lowerbg">
+    <path id="_0-in" data-name="0-in" d="M875,1176.37l-12.81-158.71s-7.47.72-26.21-.66c-2.37,28-14,159.33-14,159.33l54.86,0" transform="translate(-3.16 -0.97)" style="fill: #7200C1"/>
+    <path id="_2-in-blue" data-name="2-in-blue" d="M928,1168.69l-38.31-154.07s-5.19,1.48-23.9,3.24c2.3,28,12.63,159.43,12.63,159.43l49.58-8.6" transform="translate(-3.16 -0.97)" style="fill: #4fc7f0"/>
+    <path id="_35-in-blue" data-name="35-in-blue" d="M1027.28,1127.5,941.86,993.67s-4.45,3.06-21.63,10.69c11.12,25.81,62.8,147.09,62.8,147.09l44.25-24" transform="translate(-3.16 -0.97)" style="fill: #4fc7f0"/>
+    <path id="_4-in-blue" data-name="4-in-blue" d="M1110.43,1052.38,985.8,954s-3.2,4.36-16.91,17.2c19,20.73,107.61,118.32,107.61,118.32l33.93-37.16" transform="translate(-3.16 -0.97)" style="fill: #4fc7f0"/>
+    <path id="_33-in-blue" data-name="33-in-blue" d="M1165.15,958.05l-150-52.12s-1.59,5.17-10.35,21.79c24.72,13.38,140.43,76.55,140.43,76.55l19.89-46.22" transform="translate(-3.16 -0.97)" style="fill: #4fc7f0"/>
+    <path id="_6-in-blue" data-name="6-in-blue" d="M1185.64,849.25,1026.87,849s.18,5.41-2.66,24C1052,877.57,1182,899.43,1182,899.43l3.68-50.18" transform="translate(-3.16 -0.97)" style="fill: #4fc7f0"/>
+    <path id="_14-in-pink" data-name="14-in-pink" d="M980.29,1151.63l-63.64-145.45s-4.88,2.34-23,7.21c7,27.22,39.25,155.05,39.25,155.05l47.42-16.81" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_23-in-pink" data-name="23-in-pink" d="M1073.69,1093.92,966,977.28s-3.84,3.8-19.4,14.34c15.5,23.44,87.78,133.7,87.78,133.7l39.33-31.4" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_16-in-pink" data-name="16-in-pink" d="M1143.35,1006.48l-139.37-76s-2.43,4.84-13.79,19.8c22.18,17.25,126,98.57,126,98.57l27.21-42.33" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_21-in-pink" data-name="21-in-pink" d="M1177.7,904.16,1021,878.59s-.68,5.36-6.45,23.25c26.65,8.92,151.5,51.27,151.5,51.27l11.64-49" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_28-in-blue" data-name="28-in-blue" d="M771,1167.56l38.56-154s5.19,1.5,23.9,3.28c-2.35,28-12.9,159.42-12.9,159.42L771,1167.56" transform="translate(-3.16 -0.97)" style="fill: #4fc7f0"/>
+    <path id="_26-in-blue" data-name="26-in-blue" d="M671.81,1125.21l85.63-133.69s4.45,3.07,21.61,10.72c-11.15,25.8-63,147-63,147l-44.21-24" transform="translate(-3.16 -0.97)" style="fill: #4fc7f0"/>
+    <path id="_11-in-blue" data-name="11-in-blue" d="M588.78,1051,713.57,952.8s3.19,4.36,16.89,17.23c-19,20.7-107.81,118.14-107.81,118.14L588.78,1051" transform="translate(-3.16 -0.97)" style="fill: #4fc7f0"/>
+    <path id="_20-in-blue" data-name="20-in-blue" d="M536.22,955.53l150-51.87s1.58,5.17,10.31,21.81C671.85,938.8,556,1001.79,556,1001.79l-19.81-46.26" transform="translate(-3.16 -0.97)" style="fill: #4fc7f0"/>
+    <path id="_17-in-blue" data-name="17-in-blue" d="M516.9,848.7l158.77,0s-.19,5.4,2.62,24c-27.74,4.51-157.79,26.16-157.79,26.16l-3.6-50.19" transform="translate(-3.16 -0.97)" style="fill: #4fc7f0"/>
+    <path id="_9-in-pink" data-name="9-in-pink" d="M718.75,1150.42l63.89-145.35s4.87,2.35,23,7.25c-7,27.21-39.5,155-39.5,155l-47.4-16.89" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_30-in-pink" data-name="30-in-pink" d="M626.46,1091.56,734.35,975.09s3.84,3.81,19.38,14.37c-15.54,23.42-88,133.55-88,133.55l-39.27-31.45" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_7-in-pink" data-name="7-in-pink" d="M556.94,1004l139.49-75.81S698.85,933,710.19,948c-22.21,17.22-126.12,98.36-126.12,98.36L556.94,1004" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_32-in-pink" data-name="32-in-pink" d="M521.75,902.62l156.73-25.31s.68,5.36,6.42,23.26c-26.67,8.88-151.58,51-151.58,51l-11.57-49" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_00-in" data-name="00-in" d="M875.58,509.83,862.52,668.52s-7.47-.73-26.22.62c-2.32-28-13.73-159.35-13.73-159.35l54.85,0" transform="translate(-3.16 -0.97)" style="fill: #7200C1"/>
+    <path id="_27-in-pink" data-name="27-in-pink" d="M928.51,520.6,890,674.61s-5.19-1.5-23.9-3.28c2.35-28,12.9-159.42,12.9-159.42l49.56,8.69" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_25-in-pink" data-name="25-in-pink" d="M1029.74,561l-85.63,133.7s-4.45-3.08-21.61-10.73c11.15-25.79,63-147,63-147l44.21,24" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_12-in-pink" data-name="12-in-pink" d="M1113.77,636.2,989,734.36s-3.19-4.36-16.89-17.23C991.1,696.43,1079.9,599,1079.9,599l33.87,37.21" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_19-in-pink" data-name="19-in-pink" d="M1167.33,734.63l-150,51.87s-1.59-5.17-10.32-21.81c24.74-13.33,140.56-76.31,140.56-76.31l19.81,46.25" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_18-in-pink" data-name="18-in-pink" d="M1185.64,843.46l-158.76,0s.19-5.41-2.62-24C1052,814.92,1182,793.27,1182,793.27l3.6,50.19" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_10-in-blue" data-name="10-in-blue" d="M980.8,535.74,916.91,681.09s-4.87-2.35-23-7.25c7-27.21,39.5-155,39.5-155l47.4,16.89" transform="translate(-3.16 -0.97)" style="fill: #51c7f0"/>
+    <path id="_29-in-blue" data-name="29-in-blue" d="M1078.09,595.61,970.2,712.07s-3.84-3.81-19.38-14.37c15.54-23.42,88-133.55,88-133.55l39.27,31.46" transform="translate(-3.16 -0.97)" style="fill: #51c7f0"/>
+    <path id="_8-in-blue" data-name="8-in-blue" d="M1145.61,683.16,1006.12,759s-2.42-4.84-13.76-19.82c22.21-17.21,126.12-98.36,126.12-98.36l27.13,42.37" transform="translate(-3.16 -0.97)" style="fill: #51c7f0"/>
+    <path id="_31-in-blue" data-name="31-in-blue" d="M1179.8,787.54l-156.73,25.31s-.68-5.36-6.42-23.26c26.66-8.88,151.58-51,151.58-51l11.57,49" transform="translate(-3.16 -0.97)" style="fill: #51c7f0"/>
+    <path id="_1-in-pink" data-name="1-in-pink" d="M771.57,521.47l38.3,154.07s5.2-1.48,23.91-3.24c-2.31-28-12.64-159.44-12.64-159.44l-49.57,8.61" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_36-in-pink" data-name="36-in-pink" d="M670.27,562.66l85.41,133.83s4.46-3.07,21.63-10.69C766.2,660,714.52,538.7,714.52,538.7l-44.25,24" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_3-in-pink" data-name="3-in-pink" d="M588.12,637.77l124.62,98.37s3.2-4.36,16.92-17.2c-19-20.74-107.61-118.32-107.61-118.32l-33.93,37.15" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_34-in-pink" data-name="34-in-pink" d="M536.4,736.11l150,52.12s1.6-5.17,10.35-21.79C672,753.06,556.28,689.89,556.28,689.89L536.4,736.11" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_5-in-pink" data-name="5-in-pink" d="M516.91,842.91l158.76.22s-.18-5.41,2.66-24c-27.73-4.56-157.74-26.42-157.74-26.42l-3.68,50.18" transform="translate(-3.16 -0.97)" style="fill: #ed2690"/>
+    <path id="_13-in-blue" data-name="13-in-blue" d="M719.26,536.53,782.9,682s4.88-2.34,23-7.21c-7-27.23-39.25-155-39.25-155l-47.42,16.81" transform="translate(-3.16 -0.97)" style="fill: #51c7f0"/>
+    <path id="_24-in-blue" data-name="24-in-blue" d="M624.86,597.24,732.57,713.88s3.84-3.8,19.4-14.34c-15.5-23.45-87.79-133.7-87.79-133.7l-39.32,31.4" transform="translate(-3.16 -0.97)" style="fill: #51c7f0"/>
+    <path id="_15-in-blue" data-name="15-in-blue" d="M557.19,687.68l139.38,76s2.42-4.84,13.79-19.8c-22.19-17.25-126-98.57-126-98.57l-27.21,42.33" transform="translate(-3.16 -0.97)" style="fill: #51c7f0"/>
+    <path id="_22-in-blue" data-name="22-in-blue" d="M521.84,789l156.69,25.57s.69-5.36,6.46-23.25c-26.65-8.92-151.5-51.27-151.5-51.27l-11.65,49" transform="translate(-3.16 -0.97)" style="fill: #51c7f0"/>
+  </g>
+  <g id="rims">
+    <line x1="1674.7" y1="845.61" x2="17.05" y2="844.26" style="fill: none;stroke: #000000;stroke-miterlimit: 10;stroke-width: 12px"/>
+    <line x1="777.62" y1="18.92" x2="915.1" y2="1673.45" style="fill: none;stroke: #000000;stroke-miterlimit: 10;stroke-width: 12px"/>
+    <line x1="915.58" y1="19.05" x2="775.5" y2="1671.94" style="fill: none;stroke: #000000;stroke-miterlimit: 10;stroke-width: 12px"/>
+    <line x1="643.49" y1="41.2" x2="1049.47" y2="1651.94" style="fill: none;stroke: #000000;stroke-miterlimit: 10;stroke-width: 12px"/>
+    <line x1="1049.03" y1="41.39" x2="640.99" y2="1649.15" style="fill: none;stroke: #000000;stroke-miterlimit: 10;stroke-width: 12px"/>
+    <line x1="514.15" y1="85.39" x2="1178.43" y2="1606.46" style="fill: none;stroke: #000000;stroke-miterlimit: 10;stroke-width: 12px"/>
+    <line x1="1178.83" y1="85.93" x2="512.92" y2="1603.94" style="fill: none;stroke: #000000;stroke-miterlimit: 10;stroke-width: 12px"/>
+    <line x1="393.86" y1="150.21" x2="1299.03" y2="1540.67" style="fill: none;stroke: #000000;stroke-miterlimit: 10;stroke-width: 12px"/>
+    <line x1="1299.2" y1="151.07" x2="392.56" y2="1538.8" style="fill: none;stroke: #000000;stroke-miterlimit: 10;stroke-width: 12px"/>
+    <line x1="284.54" y1="235.14" x2="1407.21" y2="1454.73" style="fill: none;stroke: #000000;stroke-miterlimit: 10;stroke-width: 12px"/>
+    <line x1="1408.23" y1="236.08" x2="283.52" y2="1453.8" style="fill: none;stroke: #000000;stroke-miterlimit: 10;stroke-width: 12px"/>
+    <line x1="192.57" y1="334.9" x2="1499.19" y2="1354.98" style="fill: none;stroke: #000000;stroke-miterlimit: 10;stroke-width: 12px"/>
+    <line x1="1500.82" y1="337" x2="190.93" y2="1352.87" style="fill: none;stroke: #000000;stroke-miterlimit: 10;stroke-width: 12px"/>
+    <line x1="117.87" y1="448.76" x2="1573.89" y2="1241.11" style="fill: none;stroke: #000000;stroke-miterlimit: 10;stroke-width: 12px"/>
+    <line x1="1575.48" y1="451.7" x2="116.27" y2="1238.17" style="fill: none;stroke: #000000;stroke-miterlimit: 10;stroke-width: 12px"/>
+    <line x1="61.95" y1="575.85" x2="1629.81" y2="1114.02" style="fill: none;stroke: #000000;stroke-miterlimit: 10;stroke-width: 12px"/>
+    <line x1="1630.25" y1="577.14" x2="61.51" y2="1112.73" style="fill: none;stroke: #000000;stroke-miterlimit: 10;stroke-width: 12px"/>
+    <line x1="28.68" y1="706.61" x2="1663.08" y2="983.26" style="fill: none;stroke: #000000;stroke-miterlimit: 10;stroke-width: 12px"/>
+    <line x1="1663.3" y1="707.95" x2="28.45" y2="981.92" style="fill: none;stroke: #000000;stroke-miterlimit: 10;stroke-width: 12px"/>
+    <circle id="outerRim" cx="847.03" cy="847.03" r="832.03" style="fill: none;stroke: #000000;stroke-miterlimit: 10;stroke-width: 30px"/>
+    <circle cx="852.6" cy="843.94" r="661.25" style="fill: none;stroke: #000000;stroke-miterlimit: 10;stroke-width: 12px"/>
+    <circle cx="851.04" cy="845.45" r="498.38" style="fill: none;stroke: #000000;stroke-miterlimit: 10;stroke-width: 12px"/>
+    <circle cx="847.74" cy="844.19" r="334.2" style="fill: none;stroke: #000000;stroke-miterlimit: 10;stroke-width: 12px"/>
+    <circle cx="849" cy="841.36" r="173.62" style="fill: #7200C1;stroke: #000000;stroke-miterlimit: 10;stroke-width: 9px"/>
+  </g>
+  <g id="numbers">
+    <text transform="translate(915.68 153.57) rotate(9.66) scale(1 1.75)" style="font-size: 72px;fill: #f1f2f2;font-family: Arial-Black, Arial;font-weight: 800">27</text>
+    <text transform="translate(798.27 151.19) rotate(0.05) scale(1 1.75)" style="font-size: 72px;fill: #f1f2f2;font-family: Arial-Black, Arial;font-weight: 800">00</text>
+    <text transform="translate(1023.14 172.92) rotate(19.27) scale(1 1.75)" style="font-size: 72px;fill: #f1f2f2;font-family: Arial-Black, Arial;font-weight: 800">10</text>
+    <text transform="translate(1135.75 211.45) rotate(28.91) scale(1 1.75)" style="font-size: 72px;fill: #f1f2f2;font-family: Arial-Black, Arial;font-weight: 800">25</text>
+    <text transform="translate(1236.85 269.14) rotate(38.52) scale(1 1.75)" style="font-size: 72px;fill: #f1f2f2;font-family: Arial-Black, Arial;font-weight: 800">29</text>
+    <text transform="translate(1322.47 336.33) rotate(48.12) scale(1 1.75)" style="font-size: 72px;fill: #f1f2f2;font-family: Arial-Black, Arial;font-weight: 800">12</text>
+    <text transform="translate(1417.12 445.25) rotate(57.72) scale(1 1.75)" style="font-size: 72px;fill: #f1f2f2;font-family: Arial-Black, Arial;font-weight: 800">8</text>
+    <text transform="matrix(0.39, 0.92, -1.61, 0.68, 1464.24, 518.71)" style="font-size: 72px;fill: #f1f2f2;font-family: Arial-Black, Arial;font-weight: 800">19</text>
+    <text transform="translate(1510.66 629.24) rotate(76.83) scale(1 1.75)" style="font-size: 72px;fill: #f1f2f2;font-family: Arial-Black, Arial;font-weight: 800">31</text>
+    <text transform="matrix(0.06, 1, -1.75, 0.11, 1537.82, 736)" style="font-size: 72px;fill: #f1f2f2;font-family: Arial-Black, Arial;font-weight: 800">18</text>
+    <text transform="matrix(-0.1, 0.99, -1.74, -0.18, 1543.83, 879.02)" style="font-size: 72px;fill: #f1f2f2;font-family: Arial-Black, Arial;font-weight: 800">6</text>
+    <text transform="translate(1533.96 972.78) rotate(105.63) scale(1 1.75)" style="font-size: 72px;fill: #f1f2f2;font-family: Arial-Black, Arial;font-weight: 800">21</text>
+    <text transform="translate(1505.37 1082.68) rotate(115.05) scale(1 1.75)" style="font-size: 72px;fill: #f1f2f2;font-family: Arial-Black, Arial;font-weight: 800">33</text>
+    <text transform="translate(1458.24 1184.96) rotate(124.54) scale(1 1.75)" style="font-size: 72px;fill: #f1f2f2;font-family: Arial-Black, Arial;font-weight: 800">16</text>
+    <text transform="translate(1375.79 1298.21) rotate(134.05) scale(1 1.75)" style="font-size: 72px;fill: #f1f2f2;font-family: Arial-Black, Arial;font-weight: 800">4</text>
+    <text transform="translate(1311.7 1366.82) rotate(143.58) scale(1 1.75)" style="font-size: 72px;fill: #f1f2f2;font-family: Arial-Black, Arial;font-weight: 800">23</text>
+    <text transform="translate(1220.05 1437.48) rotate(153.12) scale(1 1.75)" style="font-size: 72px;fill: #f1f2f2;font-family: Arial-Black, Arial;font-weight: 800">35</text>
+    <text transform="translate(1120.98 1487.82) rotate(162.17) scale(1 1.75)" style="font-size: 72px;fill: #f1f2f2;font-family: Arial-Black, Arial;font-weight: 800">14</text>
+    <text transform="translate(983.3 1527.83) rotate(171.49) scale(1 1.75)" style="font-size: 72px;fill: #f1f2f2;font-family: Arial-Black, Arial;font-weight: 800">2</text>
+    <text transform="translate(869.39 1540.76) rotate(-179.07) scale(1 1.75)" style="font-size: 72px;fill: #f1f2f2;font-family: Arial-Black, Arial;font-weight: 800">0</text>
+    <text transform="translate(775.82 1539.38) rotate(-169.42) scale(1 1.75)" style="font-size: 72px;fill: #f1f2f2;font-family: Arial-Black, Arial;font-weight: 800">28</text>
+    <text transform="translate(641.88 1510.12) rotate(-159.98) scale(1 1.75)" style="font-size: 72px;fill: #f1f2f2;font-family: Arial-Black, Arial;font-weight: 800">9</text>
+    <text transform="matrix(-0.87, -0.5, 0.87, -1.52, 557.09, 1478.34)" style="font-size: 72px;fill: #f1f2f2;font-family: Arial-Black, Arial;font-weight: 800">26</text>
+    <text transform="translate(456.93 1422.14) rotate(-141.01) scale(1 1.75)" style="font-size: 72px;fill: #f1f2f2;font-family: Arial-Black, Arial;font-weight: 800">30</text>
+    <text transform="matrix(-0.66, -0.75, 1.31, -1.16, 367.88, 1349.17)" style="font-size: 72px;fill: #f1f2f2;font-family: Arial-Black, Arial;font-weight: 800">11</text>
+    <text transform="translate(277 1242.09) rotate(-122.03) scale(1 1.75)" style="font-size: 72px;fill: #f1f2f2;font-family: Arial-Black, Arial;font-weight: 800">7</text>
+    <text transform="translate(229.99 1164.87) rotate(-112.6) scale(1 1.75)" style="font-size: 72px;fill: #f1f2f2;font-family: Arial-Black, Arial;font-weight: 800">20</text>
+    <text transform="translate(185.86 1061.68) rotate(-103.25) scale(1 1.75)" style="font-size: 72px;fill: #f1f2f2;font-family: Arial-Black, Arial;font-weight: 800">32</text>
+    <text transform="translate(160.43 949.75) rotate(-93.83) scale(1 1.75)" style="font-size: 72px;fill: #f1f2f2;font-family: Arial-Black, Arial;font-weight: 800">17</text>
+    <text transform="translate(153.7 811.12) rotate(-84.31) scale(1 1.75)" style="font-size: 72px;fill: #f1f2f2;font-family: Arial-Black, Arial;font-weight: 800">5</text>
+    <text transform="translate(164.64 720.68) rotate(-74.9) scale(1 1.75)" style="font-size: 72px;fill: #f1f2f2;font-family: Arial-Black, Arial;font-weight: 800">22</text>
+    <text transform="translate(192.94 611.56) rotate(-65.43) scale(1 1.75)" style="font-size: 72px;fill: #f1f2f2;font-family: Arial-Black, Arial;font-weight: 800">34</text>
+    <text transform="translate(240.03 507.43) rotate(-56.15) scale(1 1.75)" style="font-size: 72px;fill: #f1f2f2;font-family: Arial-Black, Arial;font-weight: 800">15</text>
+    <text transform="matrix(0.69, -0.73, 1.27, 1.2, 321.17, 394.1)" style="font-size: 72px;fill: #f1f2f2;font-family: Arial-Black, Arial;font-weight: 800">3</text>
+    <text transform="translate(383.74 328.18) rotate(-37.36) scale(1 1.75)" style="font-size: 72px;fill: #f1f2f2;font-family: Arial-Black, Arial;font-weight: 800">24</text>
+    <text transform="translate(474.59 259.26) rotate(-27.96) scale(1 1.75)" style="font-size: 72px;fill: #f1f2f2;font-family: Arial-Black, Arial;font-weight: 800">36</text>
+    <text transform="matrix(0.95, -0.32, 0.56, 1.66, 575.64, 206.34)" style="font-size: 72px;fill: #f1f2f2;font-family: Arial-Black, Arial;font-weight: 800">13</text>
+    <text transform="translate(706.37 166.81) rotate(-9.27) scale(1 1.75)" style="font-size: 72px;fill: #f1f2f2;font-family: Arial-Black, Arial;font-weight: 800">1</text>
+  </g>
+</svg>

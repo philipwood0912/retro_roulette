@@ -1,0 +1,369 @@
+.hidden {
+    display: none;
+}
+
+h2 {
+    font-family: Arial, Helvetica, serif;
+}
+
+body {
+    height: 1000px;
+}
+
+#container {
+    width: 1160px;
+    height: 650px;
+    margin: 0 auto;
+    position: relative;
+    margin-top: 80px;
+    background-color: #000000;
+}
+
+#retro {
+    width: 100%;
+    position: absolute;
+    margin-top: 40px;
+    text-align: center;
+}
+
+.count-down {
+    font-family: Arial, Helvetica, serif;
+    font-weight: bolder;
+    position: absolute;
+    text-align: center;
+    font-size: 115px;
+    width: 322px;
+    background-color: #000000;
+    margin: 0px 419px;
+}
+
+.count-down h2 {
+    color: #fff;
+}
+
+#start {
+    width: 220px;
+    height: 100px;
+    background-color: #000000;
+    text-align: center;
+    border-radius: 20px;
+    border: 0px solid #fff;
+    margin: auto;
+    margin-top: 35px;
+}
+
+#start h2:hover {
+    border-bottom: 8px solid #fff;
+    transition: 2s cubic-bezier(0.19, 1, 0.22, 1);
+}
+
+#start h2 {
+    font-size: 60px;
+    padding: 20px 10px 10px 10px;
+    letter-spacing: 0px;
+    font-family: Arial, Helvetica, serif;
+    color: #fff;
+    user-select: none;
+}
+
+.roul-board {
+    margin-top: 110px;
+    position: absolute;
+}
+
+.bottom-row {
+    position: absolute;
+    display: flex;
+    width: 100%;
+    height: 120px;
+    justify-content: center;
+    justify-content: space-around;
+    top: 530px;
+}
+
+.bottom-row img {
+    height: 110px;
+    margin-top: 2px;
+}
+
+.bottomBut {
+    width: 120px;
+    height: 70px;
+    text-align: center;
+    background-color: #3C0066;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+
+.bottomBut h2 {
+    font-weight: bolder;
+    color: #fff;
+    font-size: 40px;
+    padding: 15px;
+    user-select: none;
+}
+
+#helpCon {
+    
+}
+
+#helpConTitle {
+    color: #fff;
+    position: absolute;
+    left: 12px;
+    top: 12px;
+    font-size: 50px;
+}
+
+#helpClose {
+    color: #fff;
+    font-size: 40px;
+    width: 40px;
+    border: 3px solid #fff;
+    font-weight: bolder;
+    position: absolute;
+    top: 12px;
+    right: 12px;
+}
+
+/*Grid*/
+
+.board-grid {
+    width: 100%;
+    height: 418px;
+    position: absolute;
+    top: 110px;
+}
+
+#top {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    height: 85px;
+}
+
+.topBox {
+    width: 320px;
+    height: 85px;
+    margin: 0px 5px;
+}
+
+.topBox div {
+    width: 30px;
+    height: 30px;
+    margin: 0;
+    margin-left: 140px;
+    margin-top: 23px;
+}
+
+.topBox div h2 {
+    margin: 0;
+    font-size: 15px;
+    margin-top: 8px;
+}
+
+#middle {
+    height: 247px;
+    width: 1160px;
+    display: flex;
+    flex-direction: row;
+}
+
+.side {
+    width: 85px;
+    height: 247px;
+    display: flex;
+    flex-direction: column;
+}
+
+.zeros {
+    width: 85px;
+    height: 123px;
+}
+
+.zeros div {
+    width: 30px;
+    height: 30px;
+    margin: 0;
+    margin-left: 22px;
+    margin-top: 42px;
+}
+
+.zeros div h2 {
+    margin: 0;
+    font-size: 15px;
+    margin-top: 8px;
+}
+
+.rows {
+    width: 85px;
+    height: 82px;
+}
+
+.rows div {
+    width: 30px;
+    height: 30px;
+    margin: 0;
+    margin-left: 22px;
+    margin-top: 22px;
+}
+
+.rows div h2 {
+    margin: 0;
+    font-size: 15px;
+    margin-top: 8px;
+}
+
+.middle {
+    padding: 20px 0px;
+    width: 990px;
+    height: 207px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.middleRow {
+    width: 990px;
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.middleBox {
+    width: 41px;
+    height: 40px;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+    
+}
+
+.middleBox div {
+    width: 30px;
+    height: 30px;
+    margin: 0;
+}
+
+.middleBox div h2 {
+    margin: 0;
+    font-size: 15px;
+    margin-top: 8px;
+}
+
+#bottom {
+    width: 1160px;
+    height: 85px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.bottomBox {
+    width: 165px;
+    height: 85px;
+}
+
+.bottomBox div {
+    width: 30px;
+    height: 30px;
+    margin: 0;
+    margin-left: 63px;
+    margin-top: 20px
+}
+
+.bottomBox div h2 {
+    margin: 0;
+    font-size: 15px;
+    margin-top: 8px;
+}
+
+#svgObject {
+    width: 650px;
+    height: 650px;
+}
+
+.wheel-screen {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.numBut {
+    width: 200px;
+    height: 200px;
+    border: 10px solid #3C0066;
+    background-color: #7200C1;
+    border-radius: 40px;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 160px;
+    color: #fff;
+    margin-left: 140px;
+    padding: 20px
+}
+
+.numDisplay {
+    padding: 20px 5px 0px 0px;
+}
+
+.chip {
+    width: 80px;
+    height: 80px;
+    border-radius: 120px;
+    background-color: #7200C1;
+    text-align: center;
+    border: 5px solid #3C0066;
+    margin-top: 10px;
+    transform: translate(0, 0);
+}
+
+.chip-text {
+    color: #fff;
+    font-weight: bolder;
+    font-size: 35px;
+    margin-top: 22px;
+}
+
+#coinHolder {
+    display: flex;
+}
+
+#spunNumberText {
+    color: #fff;
+    font-size: 260px;
+    margin-top: 200px;
+    font-weight: bolder;
+}
+
+#spunNumberCon {
+    
+}
+
+.lightbox {
+    position: absolute;
+	top: 0;
+	height: 100%;
+	width: 100%;
+	text-align: center;
+	background: rgba(0,0,0,0.5);
+}
+
+#winnerText {
+    color: #fff;
+    font-size: 180px;
+    margin-top: 120px;
+    font-weight: bolder;
+}
+
+#winnerMoney {
+    color: #fff;
+    font-size: 200px;
+    margin-top: 15px;
+    font-weight: bolder;
+}
+
+
