@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/philipwood0912/retro_roulette#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "nodemon": "^2.0.1"
   }
 }
